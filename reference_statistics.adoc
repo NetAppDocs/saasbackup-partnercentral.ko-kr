@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_statistics.html 
+keywords: partner central, saas backup, microsoft 365, numerical, graphical, statistics 
+summary: SaaS Backup Partner Central에서 * 통계 * 화면은 SaaS Backup for Microsoft 365 고객을 관리하는 데 도움이 되는 여러 범주의 통계를 보여줍니다. 
+---
+= 통계
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 * 통계 * 보기는 SaaS Backup for Microsoft 365 고객을 관리하는 데 도움이 되는 통계를 표시합니다.
+
+다음 항목에 대한 숫자 통계가 표시됩니다.
+
+* * 라이선스 고객 *
+* * 평가판(고객) *
+* * 활성 작업 *
+* * 작업 내보내기 *
+* * 보호된 사용자 *
+* * 복원 작업 *
+* * 총 고객 *
+* * 총 작업 수 *
+
+
+image:numerical_statistics.png["숫자 통계"]
+
+그래픽 통계는 다음과 같이 나타납니다.
+
+* * 고객 *
+* * 작업 *
+
+
+image:graphical_statistics.png["그래픽 통계"]

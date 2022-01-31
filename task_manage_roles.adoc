@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_roles.html 
+keywords: saas backup, partner central, role management, manage, role, roles 
+summary: SaaS Backup Partner Central에서 서로 다른 사용자 역할을 수정, 추가 및 할당할 수 있습니다. 
+---
+= 역할을 관리합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 서로 다른 사용자 역할을 수정, 추가 및 할당할 수 있습니다.
+
+역할 관리 * 의 기본 이메일은 파트너 이메일입니다.
+
+.단계
+. 대시보드에서 를 클릭합니다 image:settings_icon.png["설정 아이콘"].
+. 드롭다운 메뉴에서 * 역할 관리 * 를 선택합니다.
++
+image:settings_role_management.png["설정 드롭다운 메뉴에서 역할 관리를 선택합니다"]
+
+. 역할 관리 * 에서 역할을 추가, 수정 및 삭제할 수 있습니다.
++
+image:role_management_screen.png["역할 관리 화면"]
+
+. 사용자를 추가하려면 을 클릭합니다 image:add_notification_icon.png["추가 아이콘"].
++
+사용자 추가 * 에서 요청된 정보를 입력합니다.
+
++
+image:add_user_role_management.png["사용자 역할 관리 추가 화면"]
+
++
+.. 사용자의 역할을 선택합니다.
++
+*** * 글로벌 파트너 관리자 *: 다른 글로벌 파트너를 생성하고 모든 역할을 완벽하게 제어할 수 있습니다.
+*** * 전체 관리자 *: 글로벌 파트너를 제외한 모든 역할에 대한 완전한 제어 권한을 가집니다.
+*** * Config Admin *: 고객을 추가하고 삭제할 수 있습니다.
+
+
+
+
+. 사용자 역할을 수정하려면 을 클릭합니다 image:pencil_icon.png["연필 아이콘"].
+. 사용자를 삭제하려면 를 클릭합니다 image:delete_icon_blue.png["삭제 아이콘"].
+

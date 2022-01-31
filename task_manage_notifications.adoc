@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_notifications.html 
+keywords: saas backup, partner central, settings, manage, notifications, add, delete, modify, enable, disable, customize 
+summary: SaaS Backup Partner Central에서 다른 사용자에 대한 알림을 추가, 수정 및 삭제할 수 있습니다. 
+---
+= 알림을 관리합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 다른 사용자에 대한 알림을 추가, 수정 및 삭제할 수 있습니다.
+
+다음 알림을 설정하거나 해제할 수 있습니다.
+
+* 역할에 사용자를 추가합니다
+* 고객 삭제 성공
+* 고객 온보드 성공
+* 고객 삭제 실패
+* 고객 온보드 오류
+
+
+.단계
+. 대시보드에서 를 클릭합니다 image:settings_icon.png["설정 아이콘"].
+. 드롭다운 메뉴에서 * 알림 * 을 선택합니다.
++
+image:settings_notifications.png["설정 드롭다운 메뉴에서 알림을 선택합니다"]
+
+. 알림 관리 * 에서 알림을 추가, 수정 및 삭제할 수 있습니다.
++
+image:notification_management_screen.png["알림 관리 화면"]
+
++
+.. 알림을 추가하려면 을 클릭합니다 image:add_notification_icon.png["알림 추가 아이콘"] 사용자에게 알림을 추가하려면
++
+알림 추가 * 에서 사용자의 이메일 주소를 입력합니다. 활성화할 알림을 선택하고 * 추가 * 를 클릭합니다.
+
++
+image:add_notifications_screen.png["알림을 사용자 지정합니다"]
+
+.. 알림을 수정하려면 을 클릭합니다 image:pencil_icon.png["연필 아이콘"].
+.. 알림을 삭제하려면 를 클릭합니다 image:delete_icon_blue.png["삭제 아이콘"].
+
+
+

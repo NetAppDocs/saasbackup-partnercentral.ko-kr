@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: SaaS Backup Partner Central에서 고객의 SaaS Backup for Microsoft 365 백업, 동기화 및 복원 작업을 모니터링할 수 있습니다. 
+---
+= 고객 작업을 모니터링합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 SaaS Backup for Microsoft 365 고객의 백업, 동기화 및 복원 작업을 모니터링할 수 있습니다.
+
+.단계
+. 대시보드에서 * 모니터링 * 을 클릭합니다.
++
+image:monitoring.png["모니터링 페이지"]
+
++
+모니터링 * 에서는 두 개의 별도 탭(* 작업 실행 * 및 * 완료된 작업 *)으로 고객의 작업 내역을 볼 수 있습니다.
+
+. 작업 유형, 서비스 유형, 도메인 이름 및 상태별로 실행 중인 작업 * 및 * 완료된 작업 * 을 필터링할 수 있습니다.
++
+.. 작업 유형별로 필터링하려면 * 작업 유형 * 에서 * 필터 * 를 클릭한 다음 작업 유형을 선택합니다.
++
+image:filter_job_type.png["작업 유형별로 필터링합니다"]
+
++
+* NOW * 작업 유형은 요청 시 작업을 참조합니다.
+
+.. 서비스 유형별로 필터링하려면 * 서비스 유형 * 에서 * 필터 * 를 클릭한 다음 서비스를 선택합니다.
++
+서비스 선택:
+
++
+*** Exchange Online을 클릭합니다
+*** 비즈니스용 OneDrive
+*** SharePoint Online을 클릭합니다
+*** Office 365 그룹
+
+
+.. 고객별로 필터링하려면 * 도메인 이름 * 에서 * 필터 * 를 클릭한 다음 고객 도메인을 선택하거나 검색합니다.
++
+image:filter_customer_domain.png["고객 도메인별로 필터링합니다"]
+
+.. 상태별로 필터링하려면 * 상태 * 에서 * 필터 * 를 클릭한 다음 상태를 선택합니다.
++
+image:filter_job_status.png["작업 상태별로 필터링합니다"]
+
+
+
+

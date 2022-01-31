@@ -1,0 +1,104 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_add_and_manage_customers.html 
+keywords: saas backup, partner central, microsoft 365, customer, customers, add, manage, delete 
+summary: SaaS Backup Partner Central에서 고객을 추가하고 관리할 수 있습니다. 
+---
+= 고객 추가, 삭제 및 관리
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 고객을 추가 및 삭제할 수 있습니다. 고객 데이터를 관리하기 위해 SaaS Backup for Microsoft 365 사용자 인터페이스를 사용합니다.
+
+SaaS Backup for Microsoft 365의 기존 테넌트를 Partner Central에 추가하려면 saasbackupsupport@netapp.com SaaS Backup Support에 문의하십시오.
+
+
+
+== 고객을 추가합니다
+
+.단계
+. 대시보드에서 왼쪽에 있는 * Customers * 를 클릭합니다.
++
+image:dashboard_customer_view.png["대시보드 고객 뷰"]
+
+. 고객 목록 * 화면에서 을 클릭합니다 image:add_customer_icon.png["고객 추가 아이콘"] 새 고객을 추가합니다.
++
+image:add_customer_screen.png["고객 추가 화면"]
+
+. 팝업에서 Office 365 아이콘을 클릭하여 새 고객 구독을 만듭니다.
+. Microsoft 365 전역 관리자 서비스 계정의 전자 메일 주소와 암호를 입력한 다음 * 로그인 * 을 클릭합니다.
+. SaaS Backup for Microsoft 365에서 요청한 권한 목록이 표시됩니다. Accept * 를 클릭합니다.
+. Partner Central로 돌아가서 를 클릭합니다 image:add_icon.png["추가 아이콘"] 고객 목록 * 의 * 작업 * 에서 * 고객 등록 * 을 완료합니다.
++
+image:complete_customer_signup.png["추가 아이콘을 클릭하여 고객 등록 과정을 완료합니다"]
+
+. 요청된 사용자 정보를 입력합니다.
++
+image:complete_customer_signup_window.png["고객 등록 완료"]
+
++
+** 구독 유형 선택:
++
+*** 평가판 구독인 경우 활성화 코드를 입력합니다.
+*** 라이센스가 있는 구독인 경우 NetApp SSO 및 제품 일련 번호를 입력하십시오.
+
+
+** 저장소 선택 * 에서 저장소를 선택합니다.
++
+SaaS Backup에서 제공하는 스토리지를 사용하는 경우:
+
++
+... SaaS Backup에서 제공하는 스토리지 * 를 클릭합니다.
+... Amazon S3 * 또는 * Azure Blob * 스토리지 옵션을 선택합니다.
+... 백업할 * AWS S3 * 또는 * Azure Blob * 영역을 선택합니다. 백업하려는 데이터의 물리적 위치에 가장 가까운 영역을 선택해야 합니다.
+
+
+
+
+. Create * 를 클릭합니다. 오른쪽에 "고객 등록 진행 중"이라는 상태 업데이트가 나타납니다. 상태 업데이트가 완료되면 상태가 "Customer Sign Up Completed(고객 등록 완료)"로 변경되고 상태가 Active(활성)로 바뀝니다.
+
+
+
+
+== 고객을 삭제합니다
+
+.단계
+. 대시보드에서 왼쪽에 있는 * Customers * 를 클릭합니다.
++
+image:dashboard_customer_view.png["대시보드 고객 뷰"]
+
+. 고객 목록에서 삭제하려는 고객을 찾습니다. 을 클릭합니다 image:delete_icon_red.png["삭제 아이콘"] 을 눌러 고객을 삭제합니다.
++
+image:delete_customer.png["고객을 삭제합니다"]
+
+
+
+
+
+== 고객 데이터 관리
+
+새 고객을 추가한 후에는 Partner Central의 대시보드에서 고객 이름, 상태 및 총 작업 수와 같은 고객 세부 정보를 볼 수 있습니다.
+
+image:dashboard_customers_view.png["대시보드 고객 뷰"]
+
+고객 데이터를 관리하기 위해 SaaS Backup for Microsoft 365 사용자 인터페이스를 사용합니다.
+
+.단계
+. 을 클릭합니다 image:return_icon.png["돌아가기 아이콘"] 고객 데이터를 관리하기 위한 SaaS Backup for Microsoft 365 사용자 인터페이스로 이동합니다.
++
+image:redirect_customer_saasbackup.png["이동: SaaS Backup for Microsoft 365"]
+
++
+Partner Central로 돌아가려면 SaaS Backup for Microsoft 365 사용자 인터페이스 왼쪽에 있는 고객 이름 아래의 * Partner Central * 을 클릭합니다.
+
++
+image:return_partner_central.png["Partner Central로 돌아갑니다"]
+
+
+
+SaaS Backup for Microsoft 365의 사용 방법에 대한 자세한 내용은 를 참조하십시오 link:https://docs.netapp.com/us-en/saasbackupO365["NetApp SaaS Backup for Microsoft 365 온라인 설명서"].

@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_new.html 
+keywords: what's new, features, new, release notes, enhancements 
+summary: SaaS Backup Partner Central은 새로운 기능, 개선 사항 및 버그 수정을 제공하기 위해 새로운 릴리즈를 정기적으로 소개합니다. 
+---
+= 새로운 기능 및 업데이트
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이번 릴리스의 NetApp SaaS Backup Partner Central에는 다음과 같은 새로운 기능과 업데이트가 추가되었습니다.
+
+Partner Central 대시보드의 * 새 기능 * 보기로 이동하여 새 업데이트 피드, 사용 방법 비디오 및 서비스 상태에 대한 정보를 확인합니다.
+
+image:whats_new.png["새로운 소식"]

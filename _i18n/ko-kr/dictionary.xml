@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="41017f616913d94c4645396f4729b1b2" category="summary">SaaS Backup Partner Central은 새로운 기능, 개선 사항 및 버그 수정을 제공하기 위해 새로운 릴리즈를 정기적으로 소개합니다.</block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">새로운 기능 및 업데이트</block>
+  <block id="7bb8a10d97088f8bc42a3a0cb091c803" category="paragraph">이번 릴리스의 NetApp SaaS Backup Partner Central에는 다음과 같은 새로운 기능과 업데이트가 추가되었습니다.</block>
+  <block id="f156b97b5fa3f266e3d0a2217380feae" category="paragraph">Partner Central 대시보드의 * 새 기능 * 보기로 이동하여 새 업데이트 피드, 사용 방법 비디오 및 서비스 상태에 대한 정보를 확인합니다.</block>
+  <block id="38332dc0c3ca19f4fc3fc46728002c03" category="inline-image-macro">새로운 소식</block>
+  <block id="4758080db72f761bca56b7d6d4576c94" category="paragraph"><block ref="4758080db72f761bca56b7d6d4576c94" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="95fbc7fae03c5958796ccfe1e17c2188" category="summary">SaaS Backup Partner Central에서 서로 다른 사용자 역할을 수정, 추가 및 할당할 수 있습니다.</block>
+  <block id="19f1799814a50fc19daad0ce851f2b34" category="doc">역할을 관리합니다</block>
+  <block id="dec256c2ef2cae867b7bc9cd2ad8a1fb" category="paragraph">SaaS Backup Partner Central에서 서로 다른 사용자 역할을 수정, 추가 및 할당할 수 있습니다.</block>
+  <block id="04b0c5c75df205fcad139dbd1502302c" category="paragraph">역할 관리 * 의 기본 이메일은 파트너 이메일입니다.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
+  <block id="e764def590791cf4cdcf76be35dc41af" category="inline-image-macro">설정 아이콘</block>
+  <block id="83f10fc8f41778740afb2d99d851c6a9" category="list-text">대시보드에서 를 클릭합니다 <block ref="af84445977eda1f857a54475e4db9fc6" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="f02a76538edb1d69389dfa8798b9a34d" category="list-text">드롭다운 메뉴에서 * 역할 관리 * 를 선택합니다.</block>
+  <block id="e451b2a978a56c527536b173c027e053" category="inline-image-macro">설정 드롭다운 메뉴에서 역할 관리를 선택합니다</block>
+  <block id="d1783fc36fc48be3f309d9ed28c116b3" category="paragraph"><block ref="d1783fc36fc48be3f309d9ed28c116b3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1781d870f61439bdb2d4a63f9f436a73" category="list-text">역할 관리 * 에서 역할을 추가, 수정 및 삭제할 수 있습니다.</block>
+  <block id="ab3d8986363bb68bf8077930561e8609" category="inline-image-macro">역할 관리 화면</block>
+  <block id="6e2496b01be8b61f61e4839f736742ce" category="paragraph"><block ref="6e2496b01be8b61f61e4839f736742ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7104882c009110b9584f53d54d9581e6" category="inline-image-macro">추가 아이콘</block>
+  <block id="41bf31365b68994d692e3c95d6906259" category="list-text">사용자를 추가하려면 을 클릭합니다 <block ref="573e344bf1a396d1ad86f7dd57c31100" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="5f6583d2296b94c8bff1df813d5b80e3" category="paragraph">사용자 추가 * 에서 요청된 정보를 입력합니다.</block>
+  <block id="b8363556b2a02fb7bc88f4455839e111" category="inline-image-macro">사용자 역할 관리 추가 화면</block>
+  <block id="db712324134edec57f36c93974f19d60" category="paragraph"><block ref="db712324134edec57f36c93974f19d60" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="577dfcc9bb54fa6779d9758044176566" category="list-text">사용자의 역할을 선택합니다.</block>
+  <block id="6be8dec4b765351c65ee4174e1ae7210" category="list-text">* 글로벌 파트너 관리자 *: 다른 글로벌 파트너를 생성하고 모든 역할을 완벽하게 제어할 수 있습니다.</block>
+  <block id="a96595165098f1fa3d46f2f997fe95a0" category="list-text">* 전체 관리자 *: 글로벌 파트너를 제외한 모든 역할에 대한 완전한 제어 권한을 가집니다.</block>
+  <block id="3150041c64d69a098294e6d7683d43ad" category="list-text">* Config Admin *: 고객을 추가하고 삭제할 수 있습니다.</block>
+  <block id="0f86fcaaecd18bb5b840cecfe55df6dc" category="inline-image-macro">연필 아이콘</block>
+  <block id="dd3a8880e867a3ac93b3cd50d72c1dee" category="list-text">사용자 역할을 수정하려면 을 클릭합니다 <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="5f11c7889df3330ff1f653f5e5702931" category="inline-image-macro">삭제 아이콘</block>
+  <block id="e5dea6b15e24231a11c6baaefc9a5e44" category="list-text">사용자를 삭제하려면 를 클릭합니다 <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="9f17d538fb0b2211b606faeaf16eee09" category="summary">알려진 문제 및 제한 사항 목록입니다.</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">알려진 문제 및 제한 사항</block>
+  <block id="90984e07fc5e2f55101ea8cc3753dd28" category="paragraph">다음과 같은 제한 사항이 있습니다.</block>
+  <block id="06378ee42ea1246f2fdeb4263f6aab0a" category="list-text">파트너는 위임된 권한에 따라 테넌트를 온보딩할 수 없습니다.</block>
+  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">Partner Central에서 보안을 강화하기 위해 키를 추가하고 관리할 수 있습니다. PowerShell cmdlet 인터페이스에 대한 지원도 찾을 수 있습니다.</block>
+  <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">키 관리</block>
+  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">키 관리 * 설정에서 Partner Central에서 보안을 강화하기 위한 키를 추가 및 관리할 수 있습니다. PowerShell cmdlet 인터페이스에 대한 지원도 찾을 수 있습니다.</block>
+  <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">키를 추가합니다</block>
+  <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">드롭다운 메뉴에서 * 키 관리 * 를 선택합니다.</block>
+  <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">설정 드롭다운 메뉴 키 관리</block>
+  <block id="cbc80748ca5e02b8edcbb0accdd758ac" category="paragraph"><block ref="cbc80748ca5e02b8edcbb0accdd758ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="db0c6344cb515d3e079bf201b6f61f66" category="inline-image-macro">키 추가 아이콘</block>
+  <block id="ae0abb06791089c89fc15c1c37f78f31" category="list-text">키를 추가하려면 을 클릭합니다 <block ref="6f4201a5da68519dea18c828bf9b69bd" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="3a20ce18dd185ad85f3e35fed834abf1" category="inline-image-macro">키 관리 화면</block>
+  <block id="05b5a35e21441f33f1a0994efb95c8ce" category="paragraph"><block ref="05b5a35e21441f33f1a0994efb95c8ce" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6342a6c7ff458a19b65b16267552ca57" category="list-text">키 추가 * 에서 다음을 수행합니다.</block>
+  <block id="c7358ca4e636c76e39a54b5adc9b9cb9" category="inline-image-macro">키 추가 화면</block>
+  <block id="0bf4939b794662059414bba2baa00737" category="paragraph"><block ref="0bf4939b794662059414bba2baa00737" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bf3065869964936aaa68f8eff5fc7c2e" category="list-text">사용자를 선택합니다.</block>
+  <block id="7ecffce80cc65be8a35cfaaaf9c785df" category="list-text">설명을 추가합니다.</block>
+  <block id="4fbdf54ffbbae3fcd9e72333988208a4" category="list-text">만료를 선택합니다.</block>
+  <block id="c101bffe92c100594eb2a6f1067cbb16" category="list-text">추가 * 를 클릭합니다. "키를 성공적으로 생성했습니다."라는 메시지가 표시된 상자가 나타납니다.</block>
+  <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">키 아이콘을 표시합니다</block>
+  <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">키 아이콘을 숨깁니다</block>
+  <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">을 클릭합니다 <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 암호화되지 않은 키를 표시하려면 를 클릭합니다 <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> 암호화되지 않은 키를 숨깁니다.</block>
+  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">PowerShell 다운로드</block>
+  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">PowerShell 아이콘을 다운로드합니다</block>
+  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">PowerShell을 다운로드하려면 을 클릭합니다 <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">다운로드한 프로그램을 설치합니다.</block>
+  <block id="1902fe9260b654df58d39430f970011a" category="list-text">프로그램을 설치한 후 바탕 화면에서 * SaaS Backup PowerShell * 아이콘을 두 번 클릭하여 PowerShell cmdlet을 시작합니다.</block>
+  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS Backup PowerShell 가이드(TR-4873)</block>
+  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">NetApp SaaS Backup PowerShell 모듈 사용에 대한 자세한 내용은 을 참조하십시오 <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>.</block>
+  <block id="2f2cdfaae11387cf447edda4e8b53a03" category="summary">SaaS Backup Partner Central에서 고객을 추가하고 관리할 수 있습니다.</block>
+  <block id="1c5f859d60bac24aa56f41c122c66ccb" category="doc">고객 추가, 삭제 및 관리</block>
+  <block id="567d391229108ec1470ec569d0d69313" category="paragraph">SaaS Backup Partner Central에서 고객을 추가 및 삭제할 수 있습니다. 고객 데이터를 관리하기 위해 SaaS Backup for Microsoft 365 사용자 인터페이스를 사용합니다.</block>
+  <block id="1bc5c06c250f22dc2b56f7e43b32f6b0" category="paragraph">SaaS Backup for Microsoft 365의 기존 테넌트를 Partner Central에 추가하려면 saasbackupsupport@netapp.com SaaS Backup Support에 문의하십시오.</block>
+  <block id="7d2d723512484c4082ec3a3475915416" category="section-title">고객을 추가합니다</block>
+  <block id="91de33d9eae5dc33f31046620e575e25" category="list-text">대시보드에서 왼쪽에 있는 * Customers * 를 클릭합니다.</block>
+  <block id="d55fe1b20d9a542c91557b02ec7c7298" category="inline-image-macro">대시보드 고객 뷰</block>
+  <block id="69069b8ce91665cb447a8ce2801e3a05" category="paragraph"><block ref="69069b8ce91665cb447a8ce2801e3a05" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="680df6bfbb96f506daed2853e34852f9" category="inline-image-macro">고객 추가 아이콘</block>
+  <block id="e1afa328c29b48386b0ac78830e45bfa" category="list-text">고객 목록 * 화면에서 을 클릭합니다 <block ref="7f054edb3b112dca13f9fae0ee22109d" category="inline-image-macro-rx" type="image"></block> 새 고객을 추가합니다.</block>
+  <block id="6adfa1832b1c984770e72909029631f4" category="inline-image-macro">고객 추가 화면</block>
+  <block id="2fe92bd396c5de7c4af5361885e3272c" category="paragraph"><block ref="2fe92bd396c5de7c4af5361885e3272c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6881b727848bbdcff08ae2244ef65bc7" category="list-text">팝업에서 Office 365 아이콘을 클릭하여 새 고객 구독을 만듭니다.</block>
+  <block id="d4b054cb8a72b73b319023d60222ecb8" category="list-text">Microsoft 365 전역 관리자 서비스 계정의 전자 메일 주소와 암호를 입력한 다음 * 로그인 * 을 클릭합니다.</block>
+  <block id="b22619f5adbc677457edab92a9eb7d1b" category="list-text">SaaS Backup for Microsoft 365에서 요청한 권한 목록이 표시됩니다. Accept * 를 클릭합니다.</block>
+  <block id="40947ae6b3a2c083aca2a6717d78f1de" category="list-text">Partner Central로 돌아가서 를 클릭합니다 <block ref="744ace9822aa2af1d8a882e2d7b91f49" category="inline-image-macro-rx" type="image"></block> 고객 목록 * 의 * 작업 * 에서 * 고객 등록 * 을 완료합니다.</block>
+  <block id="731c589b23b6f4947159044ca270e985" category="inline-image-macro">추가 아이콘을 클릭하여 고객 등록 과정을 완료합니다</block>
+  <block id="6e9e8c237105f4e0d511f251ee8faa00" category="paragraph"><block ref="6e9e8c237105f4e0d511f251ee8faa00" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="183a922f9c99c146568fa3a722e97f1b" category="list-text">요청된 사용자 정보를 입력합니다.</block>
+  <block id="b7d237fc31f325c5817f87155079b5c1" category="inline-image-macro">고객 등록 완료</block>
+  <block id="bfa99f4839375bca3578f8d4243c829f" category="paragraph"><block ref="bfa99f4839375bca3578f8d4243c829f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1137803a941291b1e76d449aba8a1fd3" category="list-text">구독 유형 선택:</block>
+  <block id="8020afffa54c37aedc1d1e817e13aa9d" category="list-text">평가판 구독인 경우 활성화 코드를 입력합니다.</block>
+  <block id="51987e7331177af2cd295c60ab493dba" category="list-text">라이센스가 있는 구독인 경우 NetApp SSO 및 제품 일련 번호를 입력하십시오.</block>
+  <block id="ea04f170eccaff23015594c6779ba4fa" category="list-text">저장소 선택 * 에서 저장소를 선택합니다.</block>
+  <block id="97ef2a6f38b08daaafece4907f7c83ad" category="paragraph">SaaS Backup에서 제공하는 스토리지를 사용하는 경우:</block>
+  <block id="162f1fc477521302ac776a4ae3959949" category="list-text">SaaS Backup에서 제공하는 스토리지 * 를 클릭합니다.</block>
+  <block id="4df443d6d7bf567253cafecb4fcd0872" category="list-text">Amazon S3 * 또는 * Azure Blob * 스토리지 옵션을 선택합니다.</block>
+  <block id="76af2b16db3a846582a8a032706d3035" category="list-text">백업할 * AWS S3 * 또는 * Azure Blob * 영역을 선택합니다. 백업하려는 데이터의 물리적 위치에 가장 가까운 영역을 선택해야 합니다.</block>
+  <block id="2e1dad6e24adad122399a2583fbcf048" category="list-text">Create * 를 클릭합니다. 오른쪽에 "고객 등록 진행 중"이라는 상태 업데이트가 나타납니다. 상태 업데이트가 완료되면 상태가 "Customer Sign Up Completed(고객 등록 완료)"로 변경되고 상태가 Active(활성)로 바뀝니다.</block>
+  <block id="625d7536f7f37edbe36ac157416d331a" category="section-title">고객을 삭제합니다</block>
+  <block id="b44d06e85a3730aea979e26ad4c5fefd" category="list-text">고객 목록에서 삭제하려는 고객을 찾습니다. 을 클릭합니다 <block ref="3397c2f221ca34be0b19b2ceade18ba3" category="inline-image-macro-rx" type="image"></block> 을 눌러 고객을 삭제합니다.</block>
+  <block id="7b36e9bf3c114f06aa5a8685a6e1e459" category="inline-image-macro">고객을 삭제합니다</block>
+  <block id="30462d915bc4aaabd259816f27301fda" category="paragraph"><block ref="30462d915bc4aaabd259816f27301fda" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d3d7f059960c67459984ab0a009af61" category="section-title">고객 데이터 관리</block>
+  <block id="fa8d15d767ba435df151b4ba22d51bf7" category="paragraph">새 고객을 추가한 후에는 Partner Central의 대시보드에서 고객 이름, 상태 및 총 작업 수와 같은 고객 세부 정보를 볼 수 있습니다.</block>
+  <block id="f5ee9c2c59a7d17ebb0e628bc6462d0f" category="inline-image-macro">대시보드 고객 뷰</block>
+  <block id="bfd1fa440ffdd4192c195b9235536ee9" category="paragraph"><block ref="bfd1fa440ffdd4192c195b9235536ee9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3401d336f5cb21529ff894bb04167eab" category="paragraph">고객 데이터를 관리하기 위해 SaaS Backup for Microsoft 365 사용자 인터페이스를 사용합니다.</block>
+  <block id="c2dcb4521968f694a4bdbdfa883788a2" category="inline-image-macro">돌아가기 아이콘</block>
+  <block id="c630aa3641d305477122baabad962c4b" category="list-text">을 클릭합니다 <block ref="6e130934aba6dd2600627177c5c2cb47" category="inline-image-macro-rx" type="image"></block> 고객 데이터를 관리하기 위한 SaaS Backup for Microsoft 365 사용자 인터페이스로 이동합니다.</block>
+  <block id="4f8955fe2ec9a7f21af6e897ddaa0d4a" category="inline-image-macro">이동: SaaS Backup for Microsoft 365</block>
+  <block id="ad42c630fe1dd11ff7a471af88e3b1d6" category="paragraph"><block ref="ad42c630fe1dd11ff7a471af88e3b1d6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="23cd93610689ab0c931387bb3bd58775" category="paragraph">Partner Central로 돌아가려면 SaaS Backup for Microsoft 365 사용자 인터페이스 왼쪽에 있는 고객 이름 아래의 * Partner Central * 을 클릭합니다.</block>
+  <block id="fb6eab5addcf4b8d8a6ec8831df72efd" category="inline-image-macro">Partner Central로 돌아갑니다</block>
+  <block id="f35d3285594f4748c416922780f7d1d3" category="paragraph"><block ref="f35d3285594f4748c416922780f7d1d3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="545a07adef077708e0796b9bd8491fe4" category="inline-link-macro">NetApp SaaS Backup for Microsoft 365 온라인 설명서</block>
+  <block id="dbcb5783ba4612e26d0458de7a77eb85" category="paragraph">SaaS Backup for Microsoft 365의 사용 방법에 대한 자세한 내용은 를 참조하십시오 <block ref="fc0d6ef83f94ffbc6e2d26f334e24274" category="inline-link-macro-rx"></block>.</block>
+  <block id="ec4f83a67a4298da0fd76c4e8a66dc85" category="summary">Partner Central용 NetApp SaaS Backup의 문서 포털에 오신 것을 환영합니다.</block>
+  <block id="026434100c73bca9db8ba1db98cc3853" category="doc">NetApp SaaS Backup Partner Central 문서</block>
+  <block id="1fcc6bcfa809f3049279857f9d1b7273" category="paragraph">NetApp SaaS Backup Partner Central은 NetApp 파트너가 SaaS Backup for Microsoft 365를 사용하는 고객을 관리하고 지원하는 데 도움이 되는 인터페이스입니다. Partner Central에 등록하고 고객을 관리하며 설정과 파트너 및 고객 정보를 수정하는 단계를 제공합니다.</block>
+  <block id="1fde0727b387439572ade83eecff4f68" category="section-title">새로운 기능 알아보기</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="inline-link-macro">릴리스 정보</block>
+  <block id="581ba4d54ae65da41a0053e95e169521" category="list-text"><block ref="581ba4d54ae65da41a0053e95e169521" category="inline-link-macro-rx"></block></block>
+  <block id="e92ad139d030481f83fb34bc6eb4528d" category="list-text">제품 업데이트, 사용 방법 비디오 및 서비스 상태에 대한 정보를 보려면 * 새로운 기능 * 대시보드 보기로 이동하십시오.</block>
+  <block id="0986f01a9420777b16c71fa93baf093c" category="inline-image-macro">Partner Central * 새로운 기능 *</block>
+  <block id="b279b89b9e34c9bf7c7a5d71501ff66e" category="paragraph"><block ref="b279b89b9e34c9bf7c7a5d71501ff66e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="section-title">시작하십시오</block>
+  <block id="1325c3a2cbd2cfb1824aa9cad1a621e4" category="inline-link-macro">Partner Central에 등록하십시오</block>
+  <block id="8c0bb188b1237a0ae31433c79e2f5d47" category="list-text"><block ref="8c0bb188b1237a0ae31433c79e2f5d47" category="inline-link-macro-rx"></block></block>
+  <block id="d49de289e20571eb99e4a0977115b68c" category="inline-link-macro">고객을 추가하고 관리합니다</block>
+  <block id="f0574eebed692d1092cfb6407b62fffc" category="list-text"><block ref="f0574eebed692d1092cfb6407b62fffc" category="inline-link-macro-rx"></block></block>
+  <block id="653316d25aae6954634e9748ba1d171b" category="section-title">도움을 받고, 더 많은 정보를 찾고, 피드백을 제공합니다</block>
+  <block id="ddea22f33f23ab329fa2d5ff93c65b59" category="list-text">다른 지원 리소스에 액세스하려면 Partner Central 사용자 인터페이스의 * Support * 를 방문하십시오.</block>
+  <block id="b9bfbe11ded79fa1b72b327d0497f9dd" category="inline-image-macro">지원 페이지</block>
+  <block id="c347730653bac5e5156350f0c39bf931" category="paragraph"><block ref="c347730653bac5e5156350f0c39bf931" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="63f924ad6e630ef5a0e381ec521b87fe" category="paragraph">지원 * 페이지에서는 * 기술 자료 * 기사, * 커뮤니티 *, SaaS Backup for Microsoft 365 * 사용자 설명서 * 및 * 보안 센터 * 에 액세스할 수 있습니다. 또한 * 연락처 * 를 선택한 경우 피드백을 제공하고 질문을 할 수도 있습니다.</block>
+  <block id="a3a22dea39505cf4935b32a69d04577d" category="inline-link-macro">SaaS Backup for Microsoft 365의 제품 페이지</block>
+  <block id="1f4d712278351ffe49efbc8e9679ded6" category="list-text"><block ref="1f4d712278351ffe49efbc8e9679ded6" category="inline-link-macro-rx"></block></block>
+  <block id="898870c352488e6b16c2e7f4f8ce046e" category="inline-link-macro">SaaS Backup for Microsoft 365의 사용자 설명서</block>
+  <block id="ec7b042d6bd4940e6f703a255c3797d3" category="list-text"><block ref="ec7b042d6bd4940e6f703a255c3797d3" category="inline-link-macro-rx"></block></block>
+  <block id="15f9ee239f9ae142c06591f58934b1db" category="summary">파트너로 등록한 다음 Partner Central 인터페이스에서 고객 추가 및 관리를 시작할 수 있습니다.</block>
+  <block id="39259c470f5b8c0975165d1822052c37" category="doc">NetApp SaaS Backup Partner Central에 가입하십시오</block>
+  <block id="0cd7c2688e1916155c330e8a43bd6b24" category="paragraph">NetApp SaaS Backup Partner Central에서 파트너로 등록할 수 있습니다. 등록 후 인터페이스에서 고객 추가 및 관리를 시작할 수 있습니다.</block>
+  <block id="00c5af5d165f8b8558d798eb449eaec0" category="inline-link-macro">SaaS Backup Partner Central을 참조하십시오</block>
+  <block id="78ee2f4843b98a09fc47ce3a8406f664" category="list-text">로 이동합니다 <block ref="5287b8b6894a4e58daacca88d14d474b" category="inline-link-macro-rx"></block>.</block>
+  <block id="85614a1653de2b4b92c16c0f722b4d05" category="inline-image-macro">Partner Central 로그인 페이지</block>
+  <block id="7b55ec64de5cff1fea0e74db95d9b736" category="paragraph"><block ref="7b55ec64de5cff1fea0e74db95d9b736" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4c0c0dff556eaa9b8bb9dbc866d8d728" category="list-text">드롭다운 메뉴에서 지역을 선택합니다. 기본 영역은 미국입니다.</block>
+  <block id="5240cad2aea33b1c88320a6e7a0c78ef" category="list-text">등록하려면 * 서비스 약관 * 을 읽고 동의하십시오.</block>
+  <block id="49543e6ca1b5c40fc191d4a4030f5e13" category="list-text">NetApp SSO * 를 클릭합니다.</block>
+  <block id="7270bdbe561545be71900f7287f54863" category="list-text">NetApp 로그인 페이지에서 NetApp SSO 자격 증명을 사용하여 로그인하십시오.</block>
+  <block id="d908fb2a11fda104dc60600e0dd5271a" category="list-text">요청된 등록 정보를 입력합니다. 활성화 코드를 요청하려면 SaaS Backup 제품 관리 에 문의하십시오.</block>
+  <block id="139f45b47f9daef5a0a4ce91311a0f17" category="inline-image-macro">등록 페이지</block>
+  <block id="c26c724056b7eefe0f611b91b3a77bc9" category="paragraph"><block ref="c26c724056b7eefe0f611b91b3a77bc9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9909e23ede42f2318acada35ac10bd3e" category="list-text">Register * 를 클릭합니다.</block>
+  <block id="2e1408437bfb2755f1660ba4e5e5c374" category="summary">SaaS Backup Partner Central에서 고객의 SaaS Backup for Microsoft 365 백업, 동기화 및 복원 작업을 모니터링할 수 있습니다.</block>
+  <block id="a5d57b9df3c2b3466f1f07ed148a4e14" category="doc">고객 작업을 모니터링합니다</block>
+  <block id="715c2ec34bedd919ed6b24e9e5a5be8e" category="paragraph">SaaS Backup Partner Central에서 SaaS Backup for Microsoft 365 고객의 백업, 동기화 및 복원 작업을 모니터링할 수 있습니다.</block>
+  <block id="1c391ce62c1fd3e0853b5045c1e19a03" category="list-text">대시보드에서 * 모니터링 * 을 클릭합니다.</block>
+  <block id="ac1a66ffc833e301cc5ff2b337ac7fba" category="inline-image-macro">모니터링 페이지</block>
+  <block id="424497c862b5207241d976fcfd2fdf7a" category="paragraph"><block ref="424497c862b5207241d976fcfd2fdf7a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cdb16863670a0576bd86ce9f53a87273" category="paragraph">모니터링 * 에서는 두 개의 별도 탭(* 작업 실행 * 및 * 완료된 작업 *)으로 고객의 작업 내역을 볼 수 있습니다.</block>
+  <block id="7f901e99e13c2d0e72f89cf43c0f7d5a" category="list-text">작업 유형, 서비스 유형, 도메인 이름 및 상태별로 실행 중인 작업 * 및 * 완료된 작업 * 을 필터링할 수 있습니다.</block>
+  <block id="296d9904fe6e7d4e26a6563cc180bb97" category="list-text">작업 유형별로 필터링하려면 * 작업 유형 * 에서 * 필터 * 를 클릭한 다음 작업 유형을 선택합니다.</block>
+  <block id="304a99f6674db4ebf59826d0394f5d65" category="inline-image-macro">작업 유형별로 필터링합니다</block>
+  <block id="7e2fc34093ca258fa8825f193b8f0090" category="paragraph"><block ref="7e2fc34093ca258fa8825f193b8f0090" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1dceec4f0dde6b226d2ebb522d75f4d8" category="paragraph">* NOW * 작업 유형은 요청 시 작업을 참조합니다.</block>
+  <block id="cc099b9e972c5e8555456c56d5c13eb1" category="list-text">서비스 유형별로 필터링하려면 * 서비스 유형 * 에서 * 필터 * 를 클릭한 다음 서비스를 선택합니다.</block>
+  <block id="6d71a0e3fba05454dd2180890bf7963b" category="paragraph">서비스 선택:</block>
+  <block id="3cec94f2c3f7bd13aed2488dadd12834" category="list-text">Exchange Online을 클릭합니다</block>
+  <block id="2950e5d428cbc3f55c7aec75694f130a" category="list-text">비즈니스용 OneDrive</block>
+  <block id="27bafb3855ae4ca3df676518f2aaad5a" category="list-text">SharePoint Online을 클릭합니다</block>
+  <block id="b48d0ddc83fead4eb625c684db35f9b2" category="list-text">Office 365 그룹</block>
+  <block id="952b54717a5203b7610b5553226a1ebe" category="list-text">고객별로 필터링하려면 * 도메인 이름 * 에서 * 필터 * 를 클릭한 다음 고객 도메인을 선택하거나 검색합니다.</block>
+  <block id="cfea7e40d918319588ec57d920498890" category="inline-image-macro">고객 도메인별로 필터링합니다</block>
+  <block id="a022efb82ad52fadc3a13ccb57e967bd" category="paragraph"><block ref="a022efb82ad52fadc3a13ccb57e967bd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68da71bfced41ca5bcdf647f96930cb4" category="list-text">상태별로 필터링하려면 * 상태 * 에서 * 필터 * 를 클릭한 다음 상태를 선택합니다.</block>
+  <block id="40b8b1113174bd73d24e17028a714abd" category="inline-image-macro">작업 상태별로 필터링합니다</block>
+  <block id="66780f1cc75f32493d2086c19aab9fdd" category="paragraph"><block ref="66780f1cc75f32493d2086c19aab9fdd" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="85419baaef35c65c10cd7fc01ff8d8e2" category="summary">SaaS Backup Partner Central에서 다른 사용자에 대한 알림을 추가, 수정 및 삭제할 수 있습니다.</block>
+  <block id="1b799238211a6924f3bc70f0d21bb243" category="doc">알림을 관리합니다</block>
+  <block id="11d6e507bd9501050250f5cda638bb12" category="paragraph">다음 알림을 설정하거나 해제할 수 있습니다.</block>
+  <block id="10b868dcddadc540ab7dfb25f02678e4" category="list-text">역할에 사용자를 추가합니다</block>
+  <block id="6dbb244b049e3aa95e905ae7ed3ad6e3" category="list-text">고객 삭제 성공</block>
+  <block id="0eebfa9f56bd6bae00baf48279033b57" category="list-text">고객 온보드 성공</block>
+  <block id="45fa99ecc77a6925bdd7245ed26b852d" category="list-text">고객 삭제 실패</block>
+  <block id="576ab7907f821d9416509c319abbb379" category="list-text">고객 온보드 오류</block>
+  <block id="394ebe58da4bde523fb655aac9d4c308" category="list-text">드롭다운 메뉴에서 * 알림 * 을 선택합니다.</block>
+  <block id="028c52374df3ee4ae6e8d590bf6fc0b5" category="inline-image-macro">설정 드롭다운 메뉴에서 알림을 선택합니다</block>
+  <block id="f6f2ab8ecc6574ef778b858a68caf5ca" category="paragraph"><block ref="f6f2ab8ecc6574ef778b858a68caf5ca" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a910a271bd2138433e52f1b9a2fe0643" category="list-text">알림 관리 * 에서 알림을 추가, 수정 및 삭제할 수 있습니다.</block>
+  <block id="aa09a0ecd252f9faef1d681d1d7dbe4d" category="inline-image-macro">알림 관리 화면</block>
+  <block id="fa207f1a09c67d63ad7297a49071f153" category="paragraph"><block ref="fa207f1a09c67d63ad7297a49071f153" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0ad9f25d9f8184c0691fe9d58899ef5d" category="inline-image-macro">알림 추가 아이콘</block>
+  <block id="b239edec484dfc273f453c75f5577c97" category="list-text">알림을 추가하려면 을 클릭합니다 <block ref="220811ed6600502a3abfe7154313791c" category="inline-image-macro-rx" type="image"></block> 사용자에게 알림을 추가하려면</block>
+  <block id="f5beb169b946a802a1c792fa686b5d16" category="paragraph">알림 추가 * 에서 사용자의 이메일 주소를 입력합니다. 활성화할 알림을 선택하고 * 추가 * 를 클릭합니다.</block>
+  <block id="5747fc79ee23adae38f0d16ed483aabe" category="inline-image-macro">알림을 사용자 지정합니다</block>
+  <block id="4a0150a7fb21124b3129b0a342d0d7c2" category="paragraph"><block ref="4a0150a7fb21124b3129b0a342d0d7c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c44ce6c18468e70c7fde5f6f5443cc3b" category="list-text">알림을 수정하려면 을 클릭합니다 <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="b251cd3cfccee18ac398d4e7ec17a627" category="list-text">알림을 삭제하려면 를 클릭합니다 <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="9050af74f057a108465be3e32ae53b55" category="summary">NetApp SaaS Backup Partner Central 인터페이스에서 도움을 받고, 자세한 정보를 찾고, 의견을 제공할 수 있습니다.</block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="doc">도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳</block>
+  <block id="c48e67c8ed1b729afe73f2b07da8dbcf" category="paragraph">NetApp SaaS Backup Partner Central 인터페이스(* 지원*)에서 도움말을 보고 자세한 정보를 확인할 수 있습니다.</block>
+  <block id="4039d37702fa4c09dfd731a287773e02" category="inline-image-macro">지원 옵션</block>
+  <block id="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="paragraph"><block ref="9a8bafa7ab47e8a8a0ccee6bc95e6f2a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="75bce0ca28fbc1ea4cfb236f4396a856" category="paragraph">* 지원 * 은 다음 리소스에 대한 액세스를 제공합니다.</block>
+  <block id="e3de4cbd268b6817b6b48681163f6c2a" category="list-text">* 기술 자료 * 기사</block>
+  <block id="1d9b4860eca37f6686bcb2792f34ee9d" category="list-text">* 커뮤니티 *</block>
+  <block id="12b886e31e39b25111ba78c614d5d177" category="list-text">* 사용 설명서 *</block>
+  <block id="c48730cb532534ed8ded87a7e1e63743" category="list-text">* 피드백 *</block>
+  <block id="dacd72a87c9099fa5a9c737889f511f8" category="list-text">* 보안 센터 *</block>
+  <block id="0a2a5e521c0259e31bbc32ed9dd1fcd5" category="list-text">* 연락처 *</block>
+  <block id="8406a3eb7eb4eb3545d06adeb2ffe3c5" category="summary">SaaS Backup Partner Central에서 * 통계 * 화면은 SaaS Backup for Microsoft 365 고객을 관리하는 데 도움이 되는 여러 범주의 통계를 보여줍니다.</block>
+  <block id="c33e404a441c6ba9648f88af3c68a1ca" category="doc">통계</block>
+  <block id="a7a802422882fa27c6c48d8c3fa48a13" category="paragraph">SaaS Backup Partner Central에서 * 통계 * 보기는 SaaS Backup for Microsoft 365 고객을 관리하는 데 도움이 되는 통계를 표시합니다.</block>
+  <block id="2b5f61cbdbebe3605c11d7b6e63ed695" category="paragraph">다음 항목에 대한 숫자 통계가 표시됩니다.</block>
+  <block id="049365e1f7c8ee3fb0675fb91c472548" category="list-text">* 라이선스 고객 *</block>
+  <block id="8fbb0da39dce1d1e7febe0534518d15c" category="list-text">* 평가판(고객) *</block>
+  <block id="e0909a6ee021401b1580195b73449f1e" category="list-text">* 활성 작업 *</block>
+  <block id="052311902605573af36ad4c93a975e4c" category="list-text">* 작업 내보내기 *</block>
+  <block id="8309c46c49390f3f776c758c908022ed" category="list-text">* 보호된 사용자 *</block>
+  <block id="ab84edd66b924a46250d9d44f205d56a" category="list-text">* 복원 작업 *</block>
+  <block id="2e7492c21c2f6eab9acebb1937264992" category="list-text">* 총 고객 *</block>
+  <block id="a284c77e0d42f7d3165c3f26c75ac589" category="list-text">* 총 작업 수 *</block>
+  <block id="bc9c8604e1b2eafa13d9f9d9a2fb7174" category="inline-image-macro">숫자 통계</block>
+  <block id="2c1bdf3031b0c7155a99dfd0e43c9c34" category="paragraph"><block ref="2c1bdf3031b0c7155a99dfd0e43c9c34" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8fd25c8b3575e9d25c72ac0110c46477" category="paragraph">그래픽 통계는 다음과 같이 나타납니다.</block>
+  <block id="42a97ae0de834221cf3ec94c0045f1c1" category="list-text">* 고객 *</block>
+  <block id="ecac10bc87d9557f64906694680e0cb4" category="list-text">* 작업 *</block>
+  <block id="5e7be6d03d7b3fe38948144b583c0328" category="inline-image-macro">그래픽 통계</block>
+  <block id="602f092c2d9838be5216db05e74ddc1f" category="paragraph"><block ref="602f092c2d9838be5216db05e74ddc1f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ef1a425977ae7f0b4aa9807d8a6948e" category="summary">Partner Central에서 라이센스 사용, 스토리지 사용, 작업 통계, 활동, 감사, 갱신 등 적용됩니다.</block>
+  <block id="0a20f8ab3f14dc5cfec9c5570a7bc665" category="doc">보고서 생성</block>
+  <block id="5fa73db7f95cea2851a687a0e525bbd2" category="paragraph">SaaS Backup Partner Central에서 라이센스 사용, 스토리지 사용, 작업 통계, 활동, 감사 등에 대한 보고서를 갱신 등 적용됩니다.</block>
+  <block id="362aed61d58dcba8e41e6c3eb52a8537" category="list-text">대시보드에서 왼쪽에 있는 * Reports * 를 클릭합니다.</block>
+  <block id="850403fd8108c17212638f33d35860c0" category="inline-image-macro">보고서 페이지</block>
+  <block id="8ad6a271b90ab5e88d2355fe14a99d0e" category="paragraph"><block ref="8ad6a271b90ab5e88d2355fe14a99d0e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2331f55ce6005498a04b4ad808b41088" category="list-text">보고서를 생성할 범주를 선택합니다.</block>
+  <block id="3b626e056bf70496307463be1bd8bdbe" category="list-text">* 라이센스 사용 *</block>
+  <block id="a792ac3c8fa8ea3db701d5bc1225c27e" category="list-text">* 스토리지 사용량 *</block>
+  <block id="09a62f9c63ec4fde28fd7f2500c7b885" category="list-text">* 작업 통계 *</block>
+  <block id="29061c4d823c21f83e62e367550c8389" category="list-text">* 활동 보고서 *</block>
+  <block id="55f7392fa5cc8b1a20f9eb78e6b1f9de" category="list-text">* 감사 보고서 *</block>
+  <block id="0f77c9d4026a1e87079823dd814289d4" category="list-text">* 갱신 보고서 *</block>
+  <block id="a7fdad31e918ca755cdc1c3e5eee6e98" category="list-text">범주 아래에서 * Generate * 를 클릭합니다. 보고서는 CSV 형식으로 생성됩니다.</block>
+  <block id="2ac9b834f6348b72970d659f84684c20" category="sidebar">파트너 센트럴</block>
+  <block id="7ecd0726b721e17d74d280fdd93e49f8" category="sidebar">보고서를 생성합니다</block>
+  <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">설정을 관리합니다</block>
+  <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">키 관리</block>
+  <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">도움을 받고 정보를 찾을 수 있는 곳</block>
+</blocks>

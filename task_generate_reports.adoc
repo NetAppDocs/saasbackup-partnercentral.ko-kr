@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_generate_reports.html 
+keywords: saas backup, partner central, generate, reports, 
+summary: Partner Central에서 라이센스 사용, 스토리지 사용, 작업 통계, 활동, 감사, 갱신 등 적용됩니다. 
+---
+= 보고서 생성
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central에서 라이센스 사용, 스토리지 사용, 작업 통계, 활동, 감사 등에 대한 보고서를 갱신 등 적용됩니다.
+
+.단계
+. 대시보드에서 왼쪽에 있는 * Reports * 를 클릭합니다.
++
+image:reports_page.png["보고서 페이지"]
+
+. 보고서를 생성할 범주를 선택합니다.
++
+** * 라이센스 사용 *
+** * 스토리지 사용량 *
+** * 작업 통계 *
+** * 활동 보고서 *
+** * 감사 보고서 *
+** * 갱신 보고서 *
+
+
+. 범주 아래에서 * Generate * 를 클릭합니다. 보고서는 CSV 형식으로 생성됩니다.
+
