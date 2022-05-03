@@ -6,6 +6,7 @@ summary: 알려진 문제 및 제한 사항 목록입니다.
 ---
 = 알려진 문제 및 제한 사항
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

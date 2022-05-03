@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central에서 다른 사용자에 대한 알림을 
 ---
 = 알림을 관리합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

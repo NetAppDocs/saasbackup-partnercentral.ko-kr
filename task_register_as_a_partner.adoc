@@ -6,6 +6,7 @@ summary: 파트너로 등록한 다음 Partner Central 인터페이스에서 고
 ---
 = NetApp SaaS Backup Partner Central에 가입하십시오
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

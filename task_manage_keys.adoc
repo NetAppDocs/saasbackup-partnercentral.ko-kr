@@ -6,6 +6,7 @@ summary: Partner Central에서 보안을 강화하기 위해 키를 추가하고
 ---
 = 키 관리
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

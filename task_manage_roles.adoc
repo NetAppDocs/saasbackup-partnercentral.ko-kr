@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central에서 서로 다른 사용자 역할을 수
 ---
 = 역할을 관리합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

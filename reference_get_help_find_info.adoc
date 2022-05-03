@@ -6,6 +6,7 @@ summary: NetApp SaaS Backup Partner Central 인터페이스에서 도움을 받�
 ---
 = 도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

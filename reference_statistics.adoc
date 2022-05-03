@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central에서 * 통계 * 화면은 SaaS Backup for 
 ---
 = 통계
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

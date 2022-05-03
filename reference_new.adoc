@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central은 새로운 기능, 개선 사항 및 버�
 ---
 = 새로운 기능 및 업데이트
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

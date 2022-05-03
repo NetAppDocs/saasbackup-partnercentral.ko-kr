@@ -6,6 +6,7 @@ summary: Partner Central에서 라이센스 사용, 스토리지 사용, 작업 
 ---
 = 보고서 생성
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
