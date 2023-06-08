@@ -36,9 +36,7 @@
   <block id="2813f127dc58929fb553bc32684c2e46" category="doc">알려진 문제 및 제한 사항</block>
   <block id="90984e07fc5e2f55101ea8cc3753dd28" category="paragraph">다음과 같은 제한 사항이 있습니다.</block>
   <block id="06378ee42ea1246f2fdeb4263f6aab0a" category="list-text">파트너는 위임된 권한에 따라 테넌트를 온보딩할 수 없습니다.</block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">Partner Central에서 보안을 강화하기 위해 키를 추가하고 관리할 수 있습니다. PowerShell cmdlet 인터페이스에 대한 지원도 찾을 수 있습니다.</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">키 관리</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">키 관리 * 설정에서 Partner Central에서 보안을 강화하기 위한 키를 추가 및 관리할 수 있습니다. PowerShell cmdlet 인터페이스에 대한 지원도 찾을 수 있습니다.</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">키를 추가합니다</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">드롭다운 메뉴에서 * 키 관리 * 를 선택합니다.</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">설정 드롭다운 메뉴 키 관리</block>
@@ -57,13 +55,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">키 아이콘을 표시합니다</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">키 아이콘을 숨깁니다</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">을 클릭합니다 <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 암호화되지 않은 키를 표시하려면 를 클릭합니다 <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> 암호화되지 않은 키를 숨깁니다.</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">PowerShell 다운로드</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">PowerShell 아이콘을 다운로드합니다</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">PowerShell을 다운로드하려면 을 클릭합니다 <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>.</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">다운로드한 프로그램을 설치합니다.</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">프로그램을 설치한 후 바탕 화면에서 * SaaS Backup PowerShell * 아이콘을 두 번 클릭하여 PowerShell cmdlet을 시작합니다.</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS Backup PowerShell 가이드(TR-4873)</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">NetApp SaaS Backup PowerShell 모듈 사용에 대한 자세한 내용은 을 참조하십시오 <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>.</block>
   <block id="2f2cdfaae11387cf447edda4e8b53a03" category="summary">SaaS Backup Partner Central에서 고객을 추가하고 관리할 수 있습니다.</block>
   <block id="1c5f859d60bac24aa56f41c122c66ccb" category="doc">고객 추가, 삭제 및 관리</block>
   <block id="567d391229108ec1470ec569d0d69313" category="paragraph">SaaS Backup Partner Central에서 고객을 추가 및 삭제할 수 있습니다. 고객 데이터를 관리하기 위해 SaaS Backup for Microsoft 365 사용자 인터페이스를 사용합니다.</block>
@@ -245,4 +236,6 @@
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">키 관리</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">도움을 받고 정보를 찾을 수 있는 곳</block>
   <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">새로운 기능 알아보기</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">Partner Central에서 보안을 강화하기 위해 키를 추가하고 관리할 수 있습니다.</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">키 관리 * 설정에서 Partner Central에서 보안을 강화하기 위한 키를 추가 및 관리할 수 있습니다.</block>
 </blocks>
